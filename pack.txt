@@ -1,0 +1,7 @@
+multimodalfit\__init__.py
+multimodalfit\estimate.py
+multimodalfit\generate.py
+multimodalfit\tools.py
+example_estimator.ipynb
+LICENSE
+README.md
